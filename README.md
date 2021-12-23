@@ -3,7 +3,7 @@ lista de bancos de imagens:
 
 1. Unsplash -> <https://unsplash.com>
 
-2. Rawpixel
+2. Rawpixel -> <https://www.rawpixel.com>
 
 3. FreePik
 
