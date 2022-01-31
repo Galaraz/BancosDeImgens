@@ -121,3 +121,6 @@ StockSnap.io
 59. Canva
 
 60. Tem que Ter
+61. 1zomm -> <https://www.1zoom.me/pt/>
+
+
